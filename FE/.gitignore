@@ -1,0 +1,16 @@
+
+# FE ignore
+dist
+.next
+build
+node_modules
+.pnp
+build
+
+**.gz
+.DS_Store
+*.pem
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
